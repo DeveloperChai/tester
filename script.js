@@ -7,7 +7,7 @@ const wrapperRect = wrapper.getBoundingClientRect();
 const noBtnRect = noBtn.getBoundingClientRect();
 
 yesBtn.addEventListener('click', () => {
-    question.innerHTML = 'I Love You Too :)';
+    question.innerHTML = 'ດີຫຼາຍຂໍຕູດນຳແນ່ :)';
 });
 
 noBtn.addEventListener('mouseover', () => {
